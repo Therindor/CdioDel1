@@ -1,5 +1,5 @@
 //
-//Opgave del 01
+//Opgave del 1
 //Gruppe 54
 //"DiceGame"
 //
